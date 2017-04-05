@@ -1,0 +1,25 @@
+Filename, Size (KB), Jericho Total Time (ms), ParserV2 Total Time (ms), Jericho Avg Time (ms), ParserV2 Avg Time (ms)
+test8.html, 0.0, 5, 0, 0.05, 0.0
+test5.html, 0.4, 6, 1, 0.06, 0.01
+script2.html, 0.41, 4, 2, 0.04, 0.02
+test6.html, 0.42, 10, 1, 0.1, 0.01
+textarea1.html, 0.51, 10, 6, 0.1, 0.06
+new1.html, 0.79, 8, 18, 0.08, 0.18
+script1.html, 1.04, 5, 3, 0.05, 0.03
+numbers.csv, 1.23, 2, 1, 0.02, 0.01
+test7.html, 1.72, 13, 3, 0.13, 0.03
+numbers.txt, 2.66, 2, 2, 0.02, 0.02
+test2.html, 4.25, 4, 7, 0.04, 0.07
+numbers.ods, 13.5, 29, 15, 0.29, 0.15
+test1.html, 32.54, 81, 42, 0.81, 0.42
+LinkedIn.htm, 47.18, 79, 69, 0.79, 0.69
+stkofl1.htm, 56.12, 135, 81, 1.35, 0.81
+ifwd1.htm, 88.41, 196, 129, 1.96, 1.29
+mswin1.htm, 93.62, 266, 123, 2.66, 1.23
+htmlContent.html, 97.66, 186, 113, 1.86, 1.13
+test4.html, 100.04, 235, 173, 2.35, 1.73
+toi2.htm, 148.18, 317, 177, 3.17, 1.77
+cnn1.htm, 181.16, 408, 236, 4.08, 2.36
+toi1.htm, 216.88, 468, 338, 4.68, 3.38
+Yahoo.htm, 261.13, 420, 298, 4.2, 2.98
+search.html, 262.67, 260, 375, 2.6, 3.75

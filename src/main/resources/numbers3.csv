@@ -1,0 +1,24 @@
+Filename, Size (KB), Jericho Total Time (ms), HtmlCleaner Total Time (ms), ParserV2 Total Time (ms), Jericho Avg Time (ms), HtmlCleaner Avg Time (ms), ParserV2 Avg Time (ms)
+test8.html, 0, 4, 3, 0, 0.04, 0.03, 0.0
+test5.html, 0, 4, 9, 1, 0.04, 0.09, 0.01
+script2.html, 0, 3, 10, 1, 0.03, 0.1, 0.01
+test6.html, 0, 4, 10, 1, 0.04, 0.1, 0.01
+textarea1.html, 0, 4, 11, 6, 0.04, 0.11, 0.06
+new1.html, 0, 8, 19, 1, 0.08, 0.19, 0.01
+numbers2.csv, 1, 2, 43, 1, 0.02, 0.43, 0.01
+script1.html, 1, 5, 19, 3, 0.05, 0.19, 0.03
+test7.html, 1, 16, 48, 3, 0.16, 0.48, 0.03
+test2.html, 4, 4, 40, 7, 0.04, 0.4, 0.07
+numbers2.ods, 21, 32, 293, 20, 0.32, 2.93, 0.2
+test1.html, 32, 80, 389, 37, 0.8, 3.89, 0.37
+LinkedIn.htm, 47, 72, 439, 51, 0.72, 4.39, 0.51
+stkofl1.htm, 56, 131, 653, 80, 1.31, 6.53, 0.8
+ifwd1.htm, 88, 196, 777, 103, 1.96, 7.77, 1.03
+mswin1.htm, 93, 234, 728, 110, 2.34, 7.28, 1.1
+htmlContent.html, 97, 175, 835, 102, 1.75, 8.35, 1.02
+test4.html, 100, 247, 1089, 133, 2.47, 10.89, 1.33
+toi2.htm, 148, 298, 1321, 162, 2.98, 13.21, 1.62
+cnn1.htm, 181, 359, 1727, 217, 3.59, 17.27, 2.17
+toi1.htm, 216, 438, 1837, 244, 4.38, 18.37, 2.44
+Yahoo.htm, 261, 409, 1931, 270, 4.09, 19.31, 2.7
+search.html, 262, 259, 2103, 288, 2.59, 21.03, 2.88
